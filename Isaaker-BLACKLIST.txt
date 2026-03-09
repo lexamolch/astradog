@@ -610,7 +610,7 @@ marketer.comscore.com
 cpm3.vip.sc9.admob.com
 #00.video-ak.cdn.spotify.com
 #a4.video-ak.cdn.spotify.com
-canvaz.scdn.co
+##canvaz.scdn.co
 fw.adsafeprotected.com
 #2b.audio-ak.cdn.spotify.com
 #eb.video-ak.cdn.spotify.com
