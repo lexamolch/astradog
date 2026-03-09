@@ -19,7 +19,7 @@ heads4-ak.spotify.com.edgesuite.net
 #ed.video-ak.cdn.spotify.com
 labs.comscore.com
 #40.audio-ak.cdn.spotify.com
-audio-gc.scdn.co
+#audio-gc.scdn.co
 #a2.audio-ak.cdn.spotify.com
 www.cp.tune.com
 json.moatads.com
@@ -27,7 +27,7 @@ comscoredirect.net
 #d3.audio-ak.cdn.spotify.com
 admob.co.uk
 core-ash-001.ash1.spotify.com
-tv.scdn.co
+#tv.scdn.co
 logtest.moatads.com
 lysandra.ash1.spotify.com
 click.api.cp.tune.com
@@ -121,12 +121,12 @@ o.admob.com
 gew1-accesspoint-b-wfcl.ap.spotify.com
 via.intercom.io
 #56.video-ak.cdn.spotify.com
-www.scdn.co
+#www.scdn.co
 #78.audio-ak.cdn.spotify.com
 #f4.audio-ak.cdn.spotify.com
 geo3.ggpht.com
 #33.video-ak.cdn.spotify.com
-r.scdn.co
+##r.scdn.co
 secure-gg.imrworldwide.com
 felice.ash.spotify.com
 #b0.video-ak.cdn.spotify.com
@@ -237,7 +237,7 @@ crashlytics.twimg.com
 e17437.dsct.akamaiedge.net
 pixel.admobclick.com
 #98.audio-ak.cdn.spotify.com
-login-signup.scdn.co
+#login-signup.scdn.co
 apx.moatads.com
 #4e.video-ak.cdn.spotify.com
 #4d.audio-ak.cdn.spotify.com
@@ -255,7 +255,7 @@ litix.io
 #1f.audio-ak.cdn.spotify.com
 #a9.audio-ak.cdn.spotify.com
 sap.spotify.com
-aci.scdn.co
+##aci.scdn.co
 #99.video-ak.cdn.spotify.com
 moatads.com.edgekey.net
 #9d.audio-ak.cdn.spotify.com
@@ -378,7 +378,7 @@ e10499.dsce9.akamaiedge.net
 omaze.com
 partners.spotify.com
 xpui.app.spotify.com
-p.scdn.co
+##p.scdn.co
 #ads-sp-lon.cdn.spotify.com
 #88.video-ak.cdn.spotify.com
 welcome-images.scdn.co
@@ -588,7 +588,7 @@ gae2-accesspoint-b-qgbk.ap.spotify.com
 #f6.video-ak.cdn.spotify.com
 ash-jumphost-a1.ash1.spotify.com
 #48.video-ak.cdn.spotify.com
-u.scdn.co
+##u.scdn.co
 atom.adjust.com
 comscorenetworks.net
 #f2.audio-ak.cdn.spotify.com
@@ -732,7 +732,7 @@ api.admob.xiaomi.com
 d3rt1990lpmkn.cloudfront.net
 a297.c.akamai.net
 #39.video-ak.cdn.spotify.com
-pl.scdn.co
+##pl.scdn.co
 #7e.audio-ak.cdn.spotify.com
 #ea.audio-ak.cdn.spotify.com
 hrblog.spotify.com
@@ -932,7 +932,7 @@ corp.tune.com
 #b9.audio-ak.cdn.spotify.com
 #bb.audio-ak.cdn.spotify.com
 #c5.video-ak.cdn.spotify.com
-o.scdn.co
+##o.scdn.co
 sto3-inboundvideo-a2.sto3.spotify.com
 #b2.video-ak.cdn.spotify.com
 ad3.adfarm1.adition.com
@@ -951,7 +951,7 @@ gew1-accesspoint-b-zg10.ap.spotify.com
 #98.video-ak.cdn.spotify.com
 #74.audio-ak.cdn.spotify.com
 qat.comscore.com
-video-fa.scdn.co
+##video-fa.scdn.co
 #df.audio-ak.cdn.spotify.com
 #2b.video-ak.cdn.spotify.com
 #8f.video-ak.cdn.spotify.com
@@ -1011,7 +1011,7 @@ iria.ash.spotify.com
 auditdesk-server.spotify.com
 #14.audio-ak.cdn.spotify.com
 #81.video-ak.cdn.spotify.com
-heads-fa.scdn.co
+##heads-fa.scdn.co
 alien.dual-gslb.spotify.com
 #d6.audio-ak.cdn.spotify.com
 t.myvisualiq.net
@@ -1097,7 +1097,7 @@ rt-vrrp-pub.ash.spotify.com
 #10.video-ak.cdn.spotify.com
 #41.video-ak.cdn.spotify.com
 eng.admob.com
-audio-sp.scdn.co
+##audio-sp.scdn.co
 #94.video-ak.cdn.spotify.com
 gew1-accesspoint-b-ch6f.ap.spotify.com
 #dc.video-ak.cdn.spotify.com
@@ -1205,7 +1205,7 @@ admob.mobi
 #8b.video-ak.cdn.spotify.com
 #9b.audio-ak.cdn.spotify.com
 andromache.ash.spotify.com
-canvaz.scdn.com
+#canvaz.scdn.com
 #4d.video-ak.cdn.spotify.com
 speech-recognition.spotify.com
 developer.spotify.com
